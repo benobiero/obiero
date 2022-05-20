@@ -300,3 +300,11 @@ a.link-name2{
     line-height: 16px;
     text-align: left;
 }
+
+/* ring theory */
+.ring-subtitle{
+    font-family: Helvetica, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 1.3em;
+    color: rgb(0,150,0);
+}
